@@ -1,6 +1,7 @@
 package getRequest;
 //Note: Please mention the valid petId for which JSON Output would be received.
 //Created release1.1 tag
+//Added new comment to update the release1.1 tag
 
 import org.testng.annotations.Test;
 import io.restassured.RestAssured;
